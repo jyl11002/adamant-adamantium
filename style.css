@@ -1,0 +1,29 @@
+.jumbotron {
+  font-family: 'Open Sans', sans-serif;
+  background-image: url('files/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 500px;
+}
+
+.nav li {
+  display: inline;
+}
+
+.smaller-image {
+  width: 100px;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
+
+#contactButtons {
+  display: inline;
+}
+
+
+html {
+  width: 100%;
+  height: 100%;
+}
